@@ -1,0 +1,1 @@
+This is a tutorial for nextjs and sanity.
